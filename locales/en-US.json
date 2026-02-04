@@ -1,6 +1,7 @@
 {
 	"commonError": "Error",
 	"commonOr": "or",
+	"commonWhere": "Where",
 	"commonMore": "more",
 	"commonOf": "of",
 	"commonTo": "to",
@@ -275,6 +276,7 @@
 	"pluralPdf": "Pdf|Pdfs",
 	"pluralBookmark": "Bookmark|Bookmarks",
 	"pluralAttachment": "Attachment|Attachments",
+	"pluralRule": "rule|rules",
 
 	"electronAboutVersion": "Version:",
 	"electronAboutDescription": "Anytype is a next generation software that breaks down barriers between applications, gives back privacy and data ownership to users.",
@@ -543,8 +545,8 @@
 	"pageMainHistoryCurrent": "Current version",
 	"pageMainHistoryRestore": "Restore",
 
-	"pageMainVoidErrorTitle": "You're all out of spaces",
-	"pageMainVoidErrorText": "Looks like you've cleaned the house. Ready to start fresh?<br/>Create a new space to get things rolling!",
+	"pageMainVoidErrorTitle": "You're all out of channels",
+	"pageMainVoidErrorText": "Looks like you've cleaned the house. Ready to start fresh?<br/>Create a new channel to get things rolling!",
 	"pageMainVoidSelectText": "No channels opened. Select one on the left panel or create new.",
 
 	"pageMainDateEmptyText" : "There is nothing here for this date yet",
@@ -852,6 +854,8 @@
 	"popupSettingsPersonalSectionEditor": "Editor Personalisation",
 	"popupSettingsPersonalSectionChat": "Chat",
 	"popupSettingsPersonalChatSend": "Send message with",
+	"popupSettingsPersonalSectionLists": "Lists",
+	"popupSettingsPersonalGridTitleClick": "Click to edit title in Grid",
 	"popupSettingsPersonalSectionApp": "App Appearance",
 	"popupSettingsPersonalSectionDateTime": "Date & Time",
 	"popupSettingsPersonalSectionAdvanced": "Advanced",
@@ -1747,6 +1751,10 @@
 	"menuDataviewViewEditName": "View name",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
 	"menuDataviewFilterNewFilter": "New filter",
+	"menuDataviewFilterAdvancedAdd": "Add advanced filter",
+	"menuDataviewFilterAddRule": "Add rule",
+	"menuDataviewFilterDeleteFilter": "Delete filter",
+	"menuDataviewFilterTurnIntoGroup": "Turn into group",
 	"menuDataviewViewEditView": "Edit view",
 
 	"menuDataviewUrlActionGo7": "Open in browser",
@@ -1998,6 +2006,9 @@
 	"filterConditionAllIn": "Has all of",
 	"filterConditionInArray": "Has any of",
 	"filterConditionNotInArray": "Has none of",
+
+	"filterOperatorOr": "Or",
+	"filterOperatorAnd": "And",
 
 	"inputWithFileTextUrl": "Paste a link",
 
