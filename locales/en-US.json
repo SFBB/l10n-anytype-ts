@@ -277,6 +277,7 @@
 	"pluralBookmark": "Bookmark|Bookmarks",
 	"pluralAttachment": "Attachment|Attachments",
 	"pluralRule": "rule|rules",
+	"pluralSort": "sort|sorts",
 
 	"electronAboutVersion": "Version:",
 	"electronAboutDescription": "Anytype is a next generation software that breaks down barriers between applications, gives back privacy and data ownership to users.",
@@ -618,12 +619,17 @@
 	"editorControlLayout": "Settings",
 	"editorControlDescription0": "Show description",
 	"editorControlDescription1": "Hide description",
+	"editorControlPrefillName0": "Pre-fill name",
+	"editorControlPrefillName1": "Empty name",
 
-	"editorPagePasteLink": "Paste as link",
+	"editorPagePasteAsHeader": "Paste as",
+	"editorPagePasteLink": "URL",
+	"editorPagePasteBookmark": "Bookmark",
+	"editorPagePasteText": "Plain Text",
+	"editorPagePasteEmbed": "Embed",
+	"editorPagePasteObject": "Object",
 	"editorPageCreateBookmarkObject": "Create Bookmark Object",
 	"editorPageCreateBookmark": "Create Bookmark",
-	"editorPagePasteText": "Paste as text",
-	"editorPagePasteEmbed": "Paste as embed",
 
 	"blockNameParagraph": "Text",
 	"blockNameHeader1": "Title",
@@ -1751,6 +1757,7 @@
 	"menuDataviewViewEditName": "View name",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
 	"menuDataviewFilterNewFilter": "New filter",
+	"menuDataviewFilterDeleteSort": "Delete sort",
 	"menuDataviewFilterAdvancedAdd": "Add advanced filter",
 	"menuDataviewFilterAddRule": "Add rule",
 	"menuDataviewFilterDeleteFilter": "Delete filter",
@@ -1776,6 +1783,8 @@
 
 	"menuDataviewFilterValuesChecked": "Checked",
 	"menuDataviewFilterValuesUnchecked": "Unchecked",
+	"menuDataviewFilterValuesExact": "Exact",
+	"menuDataviewFilterValuesRelative": "Relative",
 
 	"menuDataviewGroupEditShowColumn": "Show column",
 	"menuDataviewGroupEditHideColumn": "Hide Column",
@@ -1806,7 +1815,7 @@
 	"menuDataviewRelationEditToastOnCreate": "Property <b>%s</b> has been created",
 
 	"menuDataviewSortNoSortsApplied": "No sorts applied to this View",
-	"menuDataviewSortNewSort": "New sort",
+	"menuDataviewSortAddSort": "Add sort",
 	"menuDataviewSortShowEmpty": "Show empty values",
 	"menuDataviewSortShowEmptyTop": "On top",
 	"menuDataviewSortShowEmptyBottom": "On bottom",
@@ -1892,6 +1901,7 @@
 	"menuObjectAdvanced": "Advanced",
 	"menuObjectOpenInNewTab": "Open in New Tab",
 	"menuObjectOpenInNewWindow": "Open in New Window",
+	"menuObjectRelations": "Open Properties",
 
 	"menuItemFilterTimeAgo": "%d %s ago",
 	"menuItemFilterTimeFromNow": "%d %s from now",
