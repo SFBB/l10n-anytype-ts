@@ -451,6 +451,7 @@
 	"authSelectLogin": "I already have a Key",
 	"authSelectSignup": "I am new here",
 	"authDisclaimer": "By continuing you agree to our <a href=\"%s\">Terms of Use</a> and <a href=\"%s\">Privacy Policy</a>",
+	"onboardEmailDisclaimer": "By clicking Continue, you agree to receive emails from Anytype. You can unsubscribe at any time.",
 
 	"authLoginTitle": "Welcome back",
 	"authLoginLabel": "Enter your key to access your vault",
@@ -476,7 +477,7 @@
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 
 	"authOnboardEmailTitle": "Stay in the loop",
-	"authOnboardEmailLabel": "We'd love to share tips, tricks and product updates with you. Your email is never linked to your identity. We won't share your data. Ever.",
+	"authOnboardEmailLabel": "We’d love to share product updates, tips, and community news.<br/>Your email is not linked to your data.",
 	"authOnboardEmailPlaceholder": "Enter your email...",
 
 	"authOnboardPersonaTitle": "Tell Us About Yourself",
@@ -641,6 +642,9 @@
 	"blockNameBulleted": "Bulleted list",
 	"blockNameNumbered": "Numbered list",
 	"blockNameToggle": "Toggle",
+	"blockNameToggleHeader1": "Toggled title",
+	"blockNameToggleHeader2": "Toggled heading",
+	"blockNameToggleHeader3": "Toggled subheading",
 	"blockNameExistingPage": "Add link",
 	"blockNameExistingFile": "Add file",
 	"blockNameFile": "File",
@@ -672,6 +676,9 @@
 	"blockTextBulleted": "Simple list",
 	"blockTextNumbered": "Numbered list",
 	"blockTextToggle": "Hide and show content inside",
+	"blockTextToggleHeader1": "Collapsible title section",
+	"blockTextToggleHeader2": "Collapsible heading section",
+	"blockTextToggleHeader3": "Collapsible subheading section",
 	"blockTextExistingPage": "Create link to another object",
 	"blockTextExistingFile": "Create link to another file",
 	"blockTextFile": "Store file in original state",
@@ -2013,9 +2020,9 @@
 	"filterConditionNotLike": "Doesn't contain",
 	"filterConditionEmpty": "Is empty",
 	"filterConditionNotEmpty": "Is not empty",
-	"filterConditionAllIn": "Has all of",
-	"filterConditionInArray": "Has any of",
-	"filterConditionNotInArray": "Has none of",
+	"filterConditionAllIn": "Contains all",
+	"filterConditionInArray": "Contains any",
+	"filterConditionNotInArray": "Contains none",
 
 	"filterOperatorOr": "Or",
 	"filterOperatorAnd": "And",
@@ -2710,13 +2717,12 @@
 
 	"notificationMode0": "All messages",
 	"notificationMode1": "Mentions only",
-	"notificationMode2": "Disable all",
+	"notificationMode2": "Mute and hide",
 	"notificationMode3": "Custom",
 
 	"filterTemplate0": "Value template",
-	"filterTemplate1": "Current User",
-	"filterTemplate2": "Current Object",
-	"filterTemplate3": "Space Member",
+	"filterTemplate1": "This Object",
+	"filterTemplate2": "Current User",
 
 	"spaceUxType0": "None",
 	"spaceUxType1": "Space",
