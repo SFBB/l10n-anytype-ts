@@ -1491,6 +1491,7 @@
 	"popupShortcutMainBasics29": "New Tab",
 	"popupShortcutMainBasics30": "Next Tab",
 	"popupShortcutMainBasics31": "Previous Tab",
+	"popupShortcutMainBasics32": "Toggle Sidebar & Widget panel",
 
 	"popupShortcutMainTextStyle": "Text style",
 	"popupShortcutMainTextStyle1": "Bold",
@@ -1872,6 +1873,7 @@
 	"menuGraphSettingsIcons": "Icons",
 	"menuGraphSettingsPreview": "Preview",
 	"menuGraphSettingsCluster": "Cluster by Type",
+	"menuGraphSettingsTimeline": "Timeline",
 	"menuGraphSettingsShowOnGraph": "Show on Graph",
 	"menuGraphSettingsTypes": "Filter by Types",
 	"menuGraphSettingsLinks": "Links",
