@@ -19,6 +19,7 @@
 	"commonTitle": "anytype",
 	"commonSearch": "Search",
 	"commonSearchPlaceholder": "Search...",
+	"commonFilter": "Filter",
 	"commonFilterClick": "Click to filter...",
 	"commonFilterEmpty": "No items match filter",
 	"commonFilterObjects": "Filter Objects...",
@@ -1589,6 +1590,9 @@
 	"popupShortcutMarkdownBeginningOfLine1": "Create an H1 heading",
 	"popupShortcutMarkdownBeginningOfLine2": "Create an H2 heading",
 	"popupShortcutMarkdownBeginningOfLine3": "Create an H3 heading",
+	"popupShortcutMarkdownBeginningOfLine12": "Create a toggle H1 heading",
+	"popupShortcutMarkdownBeginningOfLine13": "Create a toggle H2 heading",
+	"popupShortcutMarkdownBeginningOfLine14": "Create a toggle H3 heading",
 	"popupShortcutMarkdownBeginningOfLine4": "Create a highlighted block",
 	"popupShortcutMarkdownBeginningOfLine5": "Create a bulleted list",
 	"popupShortcutMarkdownBeginningOfLine6": "Create a to-do checkbox",
@@ -2040,6 +2044,10 @@
 
 	"filterOperatorOr": "Or",
 	"filterOperatorAnd": "And",
+
+	"filterPlaceholderSelect": "Select options...",
+	"filterPlaceholderObject": "Select objects...",
+	"filterPlaceholderFile": "Select files...",
 
 	"inputWithFileTextUrl": "Paste a link",
 
