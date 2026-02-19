@@ -1420,6 +1420,7 @@
 	"popupSearchShortcutOpen": "Open",
 	"popupSearchShortcutCopyLink": "Copy link",
 	"popupSearchShortcutNewTab": "New tab",
+	"popupSearchShortcutNewWindow": "Open in new window",
 	"popupSearchShortcutSelect": "Select",
 
 	"popupAboutTitle": "Anytype",
@@ -1847,6 +1848,7 @@
 
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "Card size",
+	"menuDataviewViewEditListSize": "Size",
 	"menuDataviewViewEditFitMedia": "Fit media",
 	"menuDataviewViewEditGroupBy": "Group by",
 	"menuDataviewViewEditDate": "Date Property",
@@ -2471,6 +2473,8 @@
 	"libRelationSmall": "Small",
 	"libRelationMedium": "Medium",
 	"libRelationLarge": "Large",
+	"libRelationCompact": "Compact",
+	"libRelationRegular": "Regular",
 	"libRelationPageCover": "Object cover",
 	"libRelationPicture": "Picture",
 
