@@ -865,6 +865,8 @@
 	"popupSettingsPersonalSidebar": "Automatically show and hide sidebar",
 	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
+	"popupSettingsPersonalAnalyticsDeviceId": "Analytics device ID",
+	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Remember this device across sessions to help improve Anytype",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
 	"popupSettingsPersonalRelativeDates": "Use relative dates",
@@ -2747,10 +2749,11 @@
 	"apiScope1": "API",
 	"apiScope2": "Full",
 
-	"notificationMode0": "All messages",
+	"notificationMode0": "Enable",
 	"notificationMode1": "Mentions only",
 	"notificationMode2": "Mute and hide",
 	"notificationMode3": "Custom",
+	"notificationModeDisabled": "Disabled",
 
 	"filterTemplate0": "Value template",
 	"filterTemplate1": "This Object",
